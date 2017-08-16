@@ -1,0 +1,18 @@
+html {
+  background-color: white;
+  min-height: 100vh;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.contained {
+  margin-left: 20px;
+  margin-right: 20px;
+}
